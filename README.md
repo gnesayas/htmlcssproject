@@ -1,1 +1,1 @@
-# htmlcssproject
+This project is to reinforce my understanding of html, css, and flexbox.
